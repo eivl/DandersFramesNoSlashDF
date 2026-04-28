@@ -1,0 +1,7 @@
+## Interface: 120000, 120001, 120005
+## Title: DandersFrames - Disable /df Slash
+## Dependencies: DandersFrames
+## Version: 1.0
+## Author: eivl
+
+Core.lua
